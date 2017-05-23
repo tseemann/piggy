@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 
 $in_blast_file=$ARGV[0];
 $in_file=$ARGV[1];

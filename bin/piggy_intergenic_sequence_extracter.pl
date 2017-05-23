@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 
 $isolate=$ARGV[0];
 $in_file=$ARGV[1];

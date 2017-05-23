@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 
 $in_dir=$ARGV[0];
 $out_dir=$ARGV[1];
